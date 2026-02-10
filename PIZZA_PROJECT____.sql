@@ -1,1 +1,0 @@
-SELECT * FROM pizza__project.pizza_sales;
